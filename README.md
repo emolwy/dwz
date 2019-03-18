@@ -11,8 +11,8 @@
 2、安装MySQL，导入dwz.sql
 
 # 运行
-$ git clone https://github.com/emolwy/dwz.git
-配置 config.lua
+$ git clone https://github.com/emolwy/dwz.git  
+配置 config.lua  
 $ vi dwz/app/config/config.lua
 
 ```
