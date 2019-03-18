@@ -9,9 +9,9 @@
 2、安装MySQL，导入dwz.sql
 
 # 运行
-git clone https://github.com/emolwy/dwz.git
+$ git clone https://github.com/emolwy/dwz.git
 配置 config.lua
-vi dwz/app/config/config.lua
+$ vi dwz/app/config/config.lua
 	return {
 		-- mysql配置
 		mysql = {
@@ -32,8 +32,8 @@ vi dwz/app/config/config.lua
 	}
 
 
-cd dwz/
-./start.sh
+$ cd dwz/
+$ ./start.sh
 
 访问http://yourip:8888/
 
