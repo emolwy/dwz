@@ -2,8 +2,8 @@
 基于OR实现的短网址项目
 
 # 依赖
-本项目基于Openresty lor框架+MySQL开发实现
-1、安装Openresty和lor框架，安装参考官方文档：
+本项目基于Openresty lor框架+MySQL开发实现 \n
+1、安装Openresty和lor框架，安装参考官方文档：\n
   Openresty：https://openresty.org/en/installation.html
   lor：http://lor.sumory.com/docs/installation-cn
 2、安装MySQL，导入dwz.sql
