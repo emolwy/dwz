@@ -8,12 +8,10 @@
   lor：http://lor.sumory.com/docs/installation-cn
 2、安装MySQL，导入dwz.sql
 
-
-
-# 
-# git clone https://github.com/emolwy/dwz.git
-# 配置 config.lua
-# vi dwz/app/config/config.lua
+# 运行
+git clone https://github.com/emolwy/dwz.git
+配置 config.lua
+vi dwz/app/config/config.lua
 	return {
 		-- mysql配置
 		mysql = {
@@ -34,10 +32,10 @@
 	}
 
 
-# cd dwz/
-# ./start.sh
+cd dwz/
+./start.sh
 
-# http://yourip:8888/
+访问http://yourip:8888/
 
 
 
